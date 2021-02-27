@@ -1,0 +1,1 @@
+sult:",power(base,exp))
